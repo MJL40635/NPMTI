@@ -1,0 +1,5 @@
+# Ignore site files created during mkdocs build/serve
+site
+
+# Ignore config
+config.yaml

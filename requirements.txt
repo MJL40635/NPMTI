@@ -1,0 +1,4 @@
+requests==2.31.0
+pymongo==4.7.1
+tenacity==8.2.2
+PyYAML==6.0
