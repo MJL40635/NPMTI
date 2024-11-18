@@ -1,5 +1,8 @@
-# Ignore site files created during mkdocs build/serve
+# ignore site files created during mkdocs build/serve
 site
 
-# Ignore config
+# ignore config
 config.yaml
+
+# ignore log
+weather_data.log
